@@ -1,0 +1,18 @@
+/*
+Discord Dev API info:
+    https://blog.discordapp.com/the-robot-revolution-has-unofficially-begun-unofficial-api-23a3c722d5bf
+    
+Discord bot info:
+    Page 1:
+        https://drive.google.com/file/d/0B1352IMqtYogVEdCMmE0TlI4THM/view?usp=sharing
+    Page 2:
+        https://drive.google.com/file/d/0B1352IMqtYogSUtvT0t4WDkzZHc/view?usp=sharing
+*/        
+        
+/*
+Yeah, so I don't know much about JavaScript and I need to learn more real quick. However, the basic 
+functions of the bot are:
+    1. Force an Admin-Only operating state when given the command /squelch
+    2. Return to normal operating state when given the command /release
+I'll be helping again as soon as I can. Thanks, y'all!
+*/
